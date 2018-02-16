@@ -6,5 +6,5 @@
 
 #require_all 'app'
 require_relative "../app/controllers"
-requite_relative "../app/models"
-requite_relative "../app/views"
+require_relative "../app/models"
+require_relative "../app/views"
