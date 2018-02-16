@@ -8,4 +8,4 @@
 require_relative "../app/controllers/application_controller.rb"
 require_relative "../app/models"
 require_relative "../app/views"
-require "Sinatra"
+require "sinatra"
