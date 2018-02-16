@@ -1,4 +1,4 @@
-
+require "Sinatra"
 class ApplicationController < Sinatra::Base
 
   configure do
