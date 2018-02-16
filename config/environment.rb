@@ -4,7 +4,7 @@
 #require 'bundler/setup'
 #Bundler.require(:default, ENV['SINATRA_ENV'])
 
-require_all 'app'
-#require_relative "../app/controllers/application_controller.rb"
-
+#require_all 'app'
+require_relative "../app/controllers/application_controller.rb"
+require_relative ""
 require "sinatra"
