@@ -7,5 +7,5 @@
 #require_all 'app'
 require_relative "../app/controllers/application_controller.rb"
 require_relative "../app/models/dog.rb"
-require_relative "../"
+#require_relative "../app/views/index.erb"
 require "sinatra"
